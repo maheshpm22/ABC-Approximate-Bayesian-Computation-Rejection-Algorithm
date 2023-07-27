@@ -2,7 +2,7 @@
 > Approximate Bayesian Computation (ABC) is is used to estimate posterior distributions of the model
 parameters.
 > ABC is a computational method rooted in Bayesian inference. 
-In Bayesian inference likelihood is a crucial component.
+In Bayesian inference, likelihood is a crucial component.
 
 > For simple models, an analytical formula for likelihood can be derived.
 But, in most cases, the likelihood functions of the observations are unknown or intractable analytically.
