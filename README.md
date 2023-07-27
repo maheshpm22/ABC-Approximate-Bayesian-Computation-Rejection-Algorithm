@@ -1,0 +1,2 @@
+# ABC-Approximate-Bayesian-Computation-Rejection-Algorithm
+Approximate Bayesian Computation (ABC) is is used to estimate posterior distributions of the model parameters. ABC is a computational method rooted in Bayesian inference. ABC bypasses the evaluation of likelihood function and computed  posterior distributions. In this way ABC can be applied to wide variety of complex models to estimate  parameters.
